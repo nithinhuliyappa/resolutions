@@ -1,2 +1,2 @@
 # resolutions
-Fullstack application build using the Metero framework for managing the resolutions
+Fullstack application built using the Metero platform for managing the resolutions
